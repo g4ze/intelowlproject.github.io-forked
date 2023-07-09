@@ -63,7 +63,7 @@ export default function HeroSection(props: HeroSectionProps) {
         </div>
       ) : (
         <div
-          id="hero-section"
+          id="hero-sectio"
           className="flex flex-row h-screen w-screen justify-center items-center mt-8"
         >
           <div className="bg-inherit w-4/6 flex flex-col items-left justify-center px-16">
