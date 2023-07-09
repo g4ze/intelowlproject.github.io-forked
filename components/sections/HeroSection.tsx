@@ -25,7 +25,7 @@ export default function HeroSection(props: HeroSectionProps) {
     <>
       {isMobile ? (
         <div
-          id="hero-section"
+          id="hero-sectio"
           className="flex flex-col w-screen justify-items-end space-y-5 items-end mt-32 pb-24"
         >
           <div className="bg-inherit w-full flex flex-col items-center justify-center px-5">
